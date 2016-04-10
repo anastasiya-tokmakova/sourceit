@@ -1,2 +1,6 @@
-changes in the first file qwerwetergts
+<<<<<<< HEAD
+123456 text was modified again
+=======
+changes in the first file qwerwetergtsdf
+>>>>>>> 3a2252389a89837f1c31566b085cd18aabd43568
 modified file
